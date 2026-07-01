@@ -1,0 +1,5 @@
+# Created at 2026-07-01T12:08:00.568
+Boot Manifest-JAR contains absolute paths in classpath 'G:\ExchangeSele\POSAngular\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+'other' has different root
+
